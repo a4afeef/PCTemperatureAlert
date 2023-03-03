@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "XWhdko6pEHp3BVwoFjbqqB2y0zJV/lijd9g2h+WJpyUwFjZ/JXLRYamI2i8aklYjgZ6pTwZq8G5Gq9Ertz5aOw==",
+  "success": true,
+  "projectFilePath": "C:\\Afeef\\VS Projects\\PCTemperatureAlert\\PCTemperatureAlert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\microsoft.win32.registry\\4.5.0-preview2-26406-04\\microsoft.win32.registry.4.5.0-preview2-26406-04.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\mono.posix.netstandard\\1.0.0-beta3\\mono.posix.netstandard.1.0.0-beta3.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\openhardwaremonitorlibcore\\1.0.2\\openhardwaremonitorlibcore.1.0.2.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.4.0\\system.io.filesystem.accesscontrol.4.4.0.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.io.ports\\4.4.0\\system.io.ports.4.4.0.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.security.accesscontrol\\4.5.0-preview2-26406-04\\system.security.accesscontrol.4.5.0-preview2-26406-04.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.security.principal.windows\\4.5.0-preview2-26406-04\\system.security.principal.windows.4.5.0-preview2-26406-04.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\TOSEEF\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "OpenHardwareMonitorLibCore 1.0.2 depends on Microsoft.Win32.Registry (>= 4.5.0-preview2-25707-02) but Microsoft.Win32.Registry 4.5.0-preview2-25707-02 was not found. An approximate best match of Microsoft.Win32.Registry 4.5.0-preview2-26406-04 was resolved.",
+      "libraryId": "Microsoft.Win32.Registry",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
